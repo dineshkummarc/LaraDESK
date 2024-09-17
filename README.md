@@ -7,8 +7,6 @@
 [![MIT License][license-shield]][license-url]
 <img src="https://img.shields.io/github/workflow/status/les-bogoss/LaraDESK/Laravel?label=%20TESTS&logo=laravel&style=for-the-badge">
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -29,8 +27,6 @@
     <a href="https://github.com/les-bogoss/LaraDESK/issues/new?assignees=&labels=&template=bug_report.md&title=">Report a Bug</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -58,8 +54,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -67,8 +61,6 @@
 <img src='dessin.svg' height='300'>
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -79,10 +71,7 @@
 * [Google Cloud](https://console.cloud.google.com/)
 * [Git](https://git-scm.com/)
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -94,7 +83,6 @@ To get a local copy up and running follow these simple example steps.
 * mysql
 * php
 * composer
-
 
 ### Installation
 
@@ -122,16 +110,12 @@ To get a local copy up and running follow these simple example steps.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 _For more examples, please refer to the [Documentation](https://github.com/les-bogoss/LaraDESK)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -141,8 +125,6 @@ _For more examples, please refer to the [Documentation](https://github.com/les-b
 See the [open issues](https://github.com/les-bogoss/LaraDESK/issues) for a full list of proposed features or open one.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -156,8 +138,6 @@ Project Link: [https://github.com/les-bogoss/LaraDESK](https://github.com/les-bo
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -166,8 +146,6 @@ Project Link: [https://github.com/les-bogoss/LaraDESK](https://github.com/les-bo
 * [Benoît BÉRENGER](https://www.linkedin.com/in/benoitberenger/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/les-bogoss/LaraDESK.svg?style=for-the-badge
